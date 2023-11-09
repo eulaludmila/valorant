@@ -28,7 +28,10 @@
     }
   }
 
-  .characters{
+  .agents {
     flex: 1;
+    background: blue;
+    display: flex;
+    column-gap: 16px;
   }
 }
